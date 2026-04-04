@@ -104,7 +104,7 @@ VPS（Virtual Private Server）即虚拟专用服务器，是将一台物理服�
 
 ### 🥇 VPSVIP（强烈推荐）
 
-**官网**：https://vpsvip.net
+**官网**：[VPSVIP](https://vpsvip.net)
 
 | 项目 | 内容 |
 |------|------|
@@ -176,7 +176,7 @@ VPS（Virtual Private Server）即虚拟专用服务器，是将一台物理服�
 
 #### 1. 选择配置
 
-访问 https://vpsvip.net，选择适合你的配置：
+访问 [VPSVIP](https://vpsvip.net)，选择适合你的配置：
 
 | 套餐 | CPU | 内存 | 硬盘 | 流量 | 价格 | 适合人群 |
 |------|-----|------|------|------|------|----------|
@@ -251,7 +251,7 @@ ssh-copy-id username@服务器IP
 ### 安装宝塔面板
 
 ```bash
-wget -O install.sh https://download.bt.cn/install/install-ubuntu_6.0.sh
+wget -O install.sh [瀹濆涓嬭浇](https://download.bt.cn)/install/install-ubuntu_6.0.sh
 bash install.sh
 ```
 
@@ -321,8 +321,8 @@ A: 可以，在控制面板中可随时升级CPU、内存、硬盘。
 
 ## 相关资源
 
-- https://vpsvip.net - VPSVIP官网
-- https://www.bt.cn - 宝塔面板
+- [VPSVIP](https://vpsvip.net) - VPSVIP官网
+- [瀹濆闈㈡澘](https://www.bt.cn) - 宝塔面板
 - https://www.v2ex.com - V2EX技术社区
 - https://www.linuxcool.com - Linux命令手册
 
@@ -339,3 +339,4 @@ MIT License
 
 ---
 更新时间：2026-04-04
+
